@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<a href="img.jpg">click here</a>
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+
+  border-radius: 50%;
+}
+</style>
+
+<body>
+<img src="img.jpg" alt ="smily">
+</body>
+</head>
+
+</html>

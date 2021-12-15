@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<body>
+<a href = "index3.html"> click here </a>
+</body>
+</head>
+
+</html>

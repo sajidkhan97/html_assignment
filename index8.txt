@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>numbered list</h2>
+
+<ol>
+  <li>Apple</li>
+  <li>Banana</li>
+  <li>Lemons</li>
+  <li>Oranges</li>
+</ol>  
+<h2> letter list </h2>
+<ol type ="A">
+  <li>Apple</li>
+  <li>Banana</li>
+  <li>Lemons</li>
+  <li>Oranges</li>
+</ol>  
+<h2> lower case letter list </h2>
+<ol type ="a">
+  <li>Apple</li>
+  <li>Banana</li>
+  <li>Lemons</li>
+  <li>Oranges</li>
+</ol>  
+<h2> Romen numbers </h2>
+<ol type ="I">
+  <li>Apple</li>
+  <li>Banana</li>
+  <li>Lemons</li>
+  <li>Oranges</li>
+</ol> 
+<h2> Romen numbers lower </h2>
+<ol type ="i">
+  <li>Apple</li>
+  <li>Banana</li>
+  <li>Lemons</li>
+  <li>Oranges</li>
+</ol> 
+</body>
+</html>
+
